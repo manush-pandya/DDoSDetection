@@ -1,0 +1,3 @@
+192.168.1.26 - HAPROXY server
+192.168.1.46 - web server 1 (main server)
+192.168.1.27 - web server 2 (backup server)

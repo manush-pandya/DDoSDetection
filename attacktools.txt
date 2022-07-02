@@ -1,0 +1,12 @@
+LOIC - windows
+HOIC - windows
+HULK - kali
+PyLoris - windows
+Tors hammer - kali
+SLOWLORIS - kali
+DDOSIM - windows
+RUDY - windows(cmd)
+HYENAE - windows
+DAVOSET - windows
+GOLDENEYE - kali
+HPING3 - kali(builtin)

@@ -1,0 +1,18 @@
+ddosmon
+-log collection
+-email alerts
+-live monitoring
+-ip blocking
+
+ddosdeflate
+-logs
+-ip blocking
+
+fail2ban
+-bans ip that cause multiple authentication errors
+
+fastnetmon
+-log collection
+-email alerts
+-live monitoring
+-ip blocking
